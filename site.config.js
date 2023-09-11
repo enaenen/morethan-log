@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Woo Joo Chae",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://github.com/enaenen/enaenen/assets/13278955/b3ff2e2d-46cd-4cf6-a86d-cbaaeab82a02", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
     bio: "I develop.",
     email: "enaenen@naver.com",
@@ -27,7 +27,7 @@ const CONFIG = {
   link: "https://developspace.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "/avatar.svg", // The link to generate OG image, don't end with a slash
+//   ogImageGenerateURL: "/avatar.svg", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
